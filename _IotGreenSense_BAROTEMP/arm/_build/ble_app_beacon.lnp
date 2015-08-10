@@ -1,0 +1,19 @@
+--cpu Cortex-M0
+".\_build\system_nrf51.o"
+".\_build\arm_startup_nrf51.o"
+".\_build\main.o"
+".\_build\mpl3115.o"
+".\_build\cc110l.o"
+".\_build\hdc1008.o"
+".\_build\ble_srv_common.o"
+".\_build\ble_advdata.o"
+".\_build\softdevice_handler.o"
+".\_build\ble_debug_assert_handler.o"
+".\_build\ble_radio_notification.o"
+".\_build\spi_master_mnhs.o"
+".\_build\nrf_delay.o"
+".\_build\twi_hw_master_sd.o"
+--strict --scatter ".\_build\ble_app_beacon.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\_build\ble_app_beacon.map" -o .\_build\ble_app_beacon.axf

@@ -1,0 +1,24 @@
+;#<FEEDBACK># ARM Linker, 5040049: Last Updated: Thu Jul 23 21:17:27 2015
+;VERSION 0.2
+;FILE arm_startup_nrf51.o
+;FILE ble_advdata.o
+;FILE ble_debug_assert_handler.o
+__asm___26_ble_debug_assert_handler_c_be844777____REV16 <= USED 0
+__asm___26_ble_debug_assert_handler_c_be844777____REVSH <= USED 0
+ble_debug_assert_handler <= USED 0
+;FILE ble_srv_common.o
+ble_srv_ascii_to_utf8 <= USED 0
+ble_srv_report_ref_encode <= USED 0
+;FILE main.o
+__asm___6_main_c_94ae794d____REV16 <= USED 0
+__asm___6_main_c_94ae794d____REVSH <= USED 0
+;FILE softdevice_handler.o
+__asm___20_softdevice_handler_c_370b0038____REV16 <= USED 0
+__asm___20_softdevice_handler_c_370b0038____REVSH <= USED 0
+softdevice_ble_evt_handler_set <= USED 0
+softdevice_handler_sd_disable <= USED 0
+softdevice_sys_evt_handler_set <= USED 0
+;FILE system_nrf51.o
+SystemCoreClockUpdate <= USED 0
+__asm___14_system_nrf51_c_5d646a67____REV16 <= USED 0
+__asm___14_system_nrf51_c_5d646a67____REVSH <= USED 0

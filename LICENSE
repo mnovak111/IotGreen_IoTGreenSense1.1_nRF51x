@@ -1,0 +1,18 @@
+The software examples are built on top of the Nordic Semiconductor ble_app_beacon example. The files licensed under Nordic Semiconductor license have this heading.
+
+/* Copyright (c) 2013 Nordic Semiconductor. All Rights Reserved.
+ *
+ * The information contained herein is property of Nordic Semiconductor ASA.
+ * Terms and conditions of usage are described in detail in NORDIC
+ * SEMICONDUCTOR STANDARD SOFTWARE LICENSE AGREEMENT.
+ *
+ * Licensees are granted free, non-transferable use of the information. NO
+ * WARRANTY of ANY KIND is provided. This heading must NOT be removed from
+ * the file.
+ *
+ */
+                                             
+Files which do not have this heading (for example MMA845x library and MPL3115 library) are under CC-BY-SA license. No warranty of any kind is provided.
+
+The CC110L library was inspired by this work and re-written from the scratch using CC110L datasheet to be compatible with nRF51 MCUs:
+https://msuraj.wordpress.com/tag/cc110l-example-c-code/
