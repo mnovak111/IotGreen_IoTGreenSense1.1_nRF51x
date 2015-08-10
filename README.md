@@ -7,3 +7,5 @@ The software is written in Keil MDK ARM IDE. Free to use license which is limite
 
 I wrote the project on top of the ble_app_beacon example provided by Nordic Semiconductor. The SDK can be downloaded on Nordic website. You will have to link the libraries again and change the C/C++ tab of "Options for target" window. If you do not want to modify the software and just use the hex file, you will find it in /hex/ folder.
 
+The licensing is described in LICENSE file.
+
