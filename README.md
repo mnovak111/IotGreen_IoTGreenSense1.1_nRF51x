@@ -1,4 +1,4 @@
-# IotGreen_IoTGreenSense1.0_nRF51x
+# IotGreen_IoTGreenSense1.1_nRF51x
 
 In this repository, you will find the source codes for the IotGreenProject, which can be found on Hackaday:
 https://hackaday.io/project/6243-iotgreen-no-battery-iot-sensors-of-the-future
